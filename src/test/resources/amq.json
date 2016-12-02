@@ -1,3 +1,4 @@
+#set( $D = '$' )
 {
     "kind": "List",
     "apiVersion": "v1",
